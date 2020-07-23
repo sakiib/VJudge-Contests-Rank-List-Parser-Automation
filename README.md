@@ -3,7 +3,7 @@ Parse & merge the ranklist of the contests from **vjudge.net** and get the final
 
 It's helpful in managing training contests & evaluating participants performance automatically.
 
-It takes a text file consisting of the ranklist page links & uses **Selenium** & **Requests** library to gathers all the necessary information & used the **Pandas** dataframe to make the ranklist.
+It takes a text file consisting of the ranklist page links & uses **Selenium** & **Requests** libraries to gather all the necessary information & used the **Pandas** dataframe to make the ranklist.
 
 
 ## Prerequisites
