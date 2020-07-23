@@ -88,7 +88,7 @@ def navigate_to_rank_list(contest_links, count_up_solve=True):
         table_rows = driver.find_elements_by_xpath(
             '/html/body/div[1]/div[3]/div[1]/div[4]/div/table[1]/tbody/tr'
         )
-        
+
         contest_title = driver.find_element_by_xpath(
             '/html/body/div[1]/div[2]/div[1]/div[2]/h3'
         )
