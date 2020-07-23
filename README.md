@@ -19,6 +19,5 @@ It takes a text file consisting of the ranklist page links & gathers all the nec
 1. Make sure that the links are entered in correct format. e.g ( https://vjudge.net/contest/380051#rank )
 2. Make sure that you have the chromedriver.exe in the same directory of the project
 3. If you don't want to count the upsolved problems, pass **False** as the second argument
-4. From the terminal, for Windows: python main.py
-5. Ranklist is ordered by descending order of total solved problems.
+4. Ranklist is ordered by descending order of total solved problems.
 
