@@ -16,3 +16,4 @@ Parse & merge the ranklist of the contests from vjudge.net and get the final ran
 3. If you don't want to count the upsolved problems, pass **False** as the second argument
 4. From the terminal, for Windows: python main.py
 5. Ranklist is ordered by descending order of total solved problems.
+
