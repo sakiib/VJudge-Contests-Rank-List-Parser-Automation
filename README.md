@@ -1,7 +1,7 @@
 # VJudge-Contests-Rank-List-Parser
 Parse & merge the ranklist of the contests from **vjudge.net** and get the final ranklist in a csv file.
 
-It's helpful in managing training contests & gathering participants performance automatically.
+It's helpful in managing training contests & evaluating participants performance automatically.
 
 It takes a text file consisting of the ranklist page links & gathers all the necessary information.
 
