@@ -11,6 +11,6 @@ Parse & merge the ranklist of the contests from vjudge.net and get the final ran
 2. Make Sure the chromedriver version support the chrome version you are using
 
 ## Note
-1. Make sure that the links are correctly entered. e.g ( https://vjudge.net/contest/380051#rank )
+1. Make sure that the links are entered in correct format. e.g ( https://vjudge.net/contest/380051#rank )
 2. Make sure that you have the chromedriver.exe in the same directory of the project
 3. From the terminal, for Windows: python main.py
