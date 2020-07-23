@@ -1,0 +1,6 @@
+chromedriver.exe
+test.py
+sorting_test.py
+rank_list.csv
+.idea
+venv/
