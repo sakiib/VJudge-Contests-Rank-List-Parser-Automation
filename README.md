@@ -5,6 +5,8 @@ It's helpful in managing training contests & evaluating participants performance
 
 It takes a text file consisting of the ranklist page links & uses **Selenium** & **Requests** libraries to gather all the necessary information & used the **Pandas** dataframe to make the ranklist.
 
+![GIF demo](images/vjudge.gif) 
+
 
 ## Prerequisites
 1. Install python 3 ( https://www.python.org/downloads/ )
