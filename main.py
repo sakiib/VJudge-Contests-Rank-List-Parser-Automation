@@ -144,10 +144,10 @@ def generate_rank_list():
 
 
 def main():
-    contest_links = set()
+    contest_links = []
     with open('contest_ids.txt', 'r') as f:
         for link in f.readlines():
-            contest_links.add(link)
+            contest_links.append(link)
     if len(contest_links) == 0:
         print('Warning!!! No Contest Links Provided!!!')
         exit()
